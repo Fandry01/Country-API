@@ -1,0 +1,38 @@
+.African{
+    color: blue;
+}
+.American{
+    color: green;
+}
+.Asian{
+    color: red;
+}
+.European{
+    color: yellow;
+}
+.Oceanian{
+    color: purple;
+}
+
+.everycountry{
+
+}
+*{
+    margin: 0px;
+}
+img{
+    width:50px
+}
+
+.landLook{
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 80px;
+    border-radius: 20px;
+    border-style: solid;
+    font-size: 10px;
+}
+ul li{
+    width: 250px;
+}

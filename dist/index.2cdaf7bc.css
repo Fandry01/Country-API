@@ -1,0 +1,43 @@
+.African {
+  color: #00f;
+}
+
+.American {
+  color: green;
+}
+
+.Asian {
+  color: red;
+}
+
+.European {
+  color: #ff0;
+}
+
+.Oceanian {
+  color: purple;
+}
+
+* {
+  margin: 0;
+}
+
+img {
+  width: 50px;
+}
+
+.landLook {
+  width: 200px;
+  height: 80px;
+  border-style: solid;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 10px;
+}
+
+ul li {
+  width: 250px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
